@@ -66,3 +66,17 @@ H4{
 .btn:hover{
     color: rgb(135, 158, 143);
 }
+
+.about-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row-reverse;
+    padding: 10px;
+
+}
+.about-title{
+    text-align:  center;
+    padding-top: 20px;
+
+}
